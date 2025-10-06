@@ -1,5 +1,4 @@
-
-  <p align="center">
+ <p align="center">
   <samp align="center">
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/khanirfan18">Irfan</a></b>.
     <br>I'm a Computer Engineering Undergraduate Student from India.<br>
