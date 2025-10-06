@@ -1,10 +1,11 @@
-# 💫 Hi 👋, I'm Irfan
 
-💻 just a passionate dev guy who loves to build stuff  <br>📬 email: ikha4949@gmail.com — open for PRs and collabs<br>
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+  <p align="center">
+  <samp align="center">
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/khanirfan18">Irfan</a></b>.
+    <br>I'm a Computer Engineering Undergraduate Student from India.<br>
+</samp>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n0irfan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/irfan-khan-58b415308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ikha4949@gmail.com) 
