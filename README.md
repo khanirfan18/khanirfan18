@@ -5,7 +5,10 @@
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanirfan18&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanirfan18&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanirfan18&theme=dracula)|
 |-----|------|------|
 
- 
+
+[![An image of @khanirfan18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khanirfan18)](https://holopin.io/@khanirfan18)
+
+
 <!-- Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
 
 <!--
