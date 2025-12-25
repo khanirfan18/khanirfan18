@@ -1,6 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# ui/ux geek • i do scalable web stuff & sometimes open source
+# linux geek • i build scalable web stuff & sometimes open source
 
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanirfan18&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanirfan18&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanirfan18&theme=dracula)|
 |-----|------|------|
