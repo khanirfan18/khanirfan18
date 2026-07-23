@@ -2,11 +2,11 @@
 
 # linux geek • i build scalable web stuff & sometimes open source
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/cards/stats.svg" width="260"/></td>
-    <td><img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/cards/langs.svg" width="260"/></td>
-    <td><img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/cards/activity.svg" width="260"/></td>
+    <td width="33%"><img src="https://github-readme-stats.vercel.app/api?username=khanirfan18&show_icons=true&hide=stars&hide_border=true&theme=github_dark&card_width=260" width="100%"/></td>
+    <td width="33%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanirfan18&hide_border=true&theme=github_dark&card_width=260&layout=compact" width="100%"/></td>
+    <td width="33%"><img src="https://github-readme-stats.vercel.app/api?username=khanirfan18&hide=stars,commits,rank&hide_border=true&theme=github_dark&card_width=260" width="100%"/></td>
   </tr>
 </table>
 
@@ -35,7 +35,3 @@
     </td>
   </tr>
 </table>
-
-[![An image of @khanirfan18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khanirfan18)](https://holopin.io/@khanirfan18)
-
-<!-- Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github) -->
