@@ -16,35 +16,32 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Card 1: commits / PRs / issues / rank (stars hidden)
+      # Card 1: commits / PRs / issues / rank (stars hidden, dark GitHub theme)
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide=stars&show_icons=true&hide_border=true&theme=radical
+          options: username=${{ github.repository_owner }}&hide=stars&show_icons=true&hide_border=true&theme=github_dark&card_width=260
           path: cards/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Card 2: top languages breakdown
+      # Card 2: top languages as a small round (pie) chart, dark GitHub theme
       - name: Generate top-langs card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=radical
+          options: username=${{ github.repository_owner }}&hide_border=true&theme=github_dark&card_width=260
           path: cards/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Card 3: lines of code added/removed
-      - name: Generate lines-of-code card
-        uses: lowlighter/metrics@latest
+      # Card 3: PRs + issues opened (repos, commits, stars, rank hidden), dark GitHub theme
+      - name: Generate PRs/issues card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          filename: cards/lines.svg
+          card: stats
+          options: username=${{ github.repository_owner }}&hide=stars,commits,rank&hide_border=true&theme=github_dark&card_width=260
+          path: cards/activity.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
-          template: classic
-          base: ""
-          plugin_lines: yes
-          config_timezone: Asia/Kolkata
 
       - name: Commit cards
         run: |
