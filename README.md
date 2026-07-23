@@ -2,8 +2,9 @@
 
 # linux geek • i build scalable web stuff & sometimes open source
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanirfan18&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanirfan18&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanirfan18&theme=dracula)|
-|-----|------|------|
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/metrics.svg" width="720"/>
+</p>
 
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
