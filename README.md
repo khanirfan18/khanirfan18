@@ -2,9 +2,13 @@
 
 # linux geek • i build scalable web stuff & sometimes open source
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/metrics.svg" width="720"/>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/cards/stats.svg" width="260"/></td>
+    <td><img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/cards/langs.svg" width="260"/></td>
+    <td><img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/cards/lines.svg" width="260"/></td>
+  </tr>
+</table>
 
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
