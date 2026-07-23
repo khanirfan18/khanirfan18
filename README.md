@@ -2,11 +2,15 @@
 
 # linux geek • i build scalable web stuff & sometimes open source
 
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/khanirfan18&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=black&labelColor=black" />
+</p>
+
 <table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/cards/stats.svg" width="260"/></td>
     <td><img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/cards/langs.svg" width="260"/></td>
-    <td><img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/cards/lines.svg" width="260"/></td>
+    <td><img src="https://raw.githubusercontent.com/khanirfan18/khanirfan18/main/cards/activity.svg" width="260"/></td>
   </tr>
 </table>
 
