@@ -1,14 +1,7 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1 align="center">linux geek • i build scalable web stuff & sometimes open source </h1> 
 
-# linux geek • i build scalable web stuff & sometimes open source
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api?username=khanirfan18&show_icons=true&hide=stars&hide_border=true&theme=github_dark&card_width=260" width="100%"/></td>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanirfan18&hide_border=true&theme=github_dark&card_width=260&layout=compact" width="100%"/></td>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api?username=khanirfan18&hide=stars,commits,rank&hide_border=true&theme=github_dark&card_width=260" width="100%"/></td>
-  </tr>
-</table>
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanirfan18&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanirfan18&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanirfan18&theme=dracula)|
+|----|-----|-----|
 
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
