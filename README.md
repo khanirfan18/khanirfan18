@@ -1,1 +1,3 @@
-<p2>Programming has been keeping me busy lately, spending most of my time on my potato laptop working on backend stuff, going down the Linux rabbit hole and exploring systems, I like visuals and clean design just as much as building things that work, looking forward to exploring Android development in the near future and eventually diving into low level programming :)</p>
+<p>
+  Started out of boredom and somehow ended up genuinely enjoying tech. I'm still learning by building things from scratch. Lately, most of my time goes into backend development, but I enjoy working on the frontend just as much and like keeping things simple and clean. Doing all of this on a potato Debian setup, looking forward to exploring Android development and low-level programming in the near future :)
+</p>
